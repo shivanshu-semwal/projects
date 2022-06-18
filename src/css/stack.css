@@ -1,0 +1,135 @@
+.react {
+  background: var(--color1);
+}
+
+span.react::after {
+  content: "React.js";
+}
+
+.express {
+  background: var(--color2);
+}
+
+span.express::after {
+  content: "Express";
+}
+
+.node {
+  background: var(--color3);
+}
+
+span.node::after {
+  content: "Node.js";
+}
+
+.python {
+  background: var(--color4);
+}
+
+span.python::after {
+  content: "Python";
+}
+
+.django {
+  background: var(--color5);
+}
+
+span.django::after {
+  content: "Django";
+}
+
+.CNN {
+  background: var(--color1);
+}
+
+span.CNN::after {
+  content: "CNN";
+}
+
+.ML {
+  background: var(--color2);
+}
+
+span.ML::after {
+  content: "ML";
+}
+
+.streamlit {
+  background: var(--color3);
+}
+
+span.streamlit::after {
+  content: "StreamLit";
+}
+
+.neo4j {
+  background: var(--color4);
+}
+
+span.neo4j::after {
+  content: "neo4j";
+}
+
+.bash {
+  background: var(--color5);
+}
+
+span.bash::after {
+  content: "bash";
+}
+
+.linux {
+  background: var(--color1);
+}
+
+span.linux::after {
+  content: "linux";
+}
+
+.liquid {
+  background: var(--color2);
+}
+
+span.liquid::after {
+  content: "liquid";
+}
+
+.jekyll {
+  background: var(--color3);
+}
+
+span.jekyll::after {
+  content: "jekyll";
+}
+
+.jekyll {
+  background: var(--color3);
+}
+
+span.jekyll::after {
+  content: "jekyll";
+}
+
+.ux-ui {
+  background: var(--color4);
+}
+
+span.ux-ui::after {
+  content: "ux-ui";
+}
+
+.yaml {
+  background: var(--color5);
+}
+
+span.yaml::after {
+  content: "yaml";
+}
+
+.dotfiles {
+  background: var(--color5);
+}
+
+span.dotfiles::after {
+  content: "dotfiles";
+}
